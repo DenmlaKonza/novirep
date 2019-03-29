@@ -1,1 +1,3 @@
 prvifajl
+drugifajl
+treci fajl
